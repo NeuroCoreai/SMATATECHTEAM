@@ -1,0 +1,15 @@
+/* style.css */
+
+/* Memastikan Chart Container memiliki tinggi agar grafik tampil */
+.chart-container {
+    position: relative;
+    height: 350px; 
+    width: 100%;
+    margin-top: 15px;
+}
+
+/* Styling tambahan untuk sel tabel agar lebih rapi */
+#transactionTable td {
+    padding: 12px 4px; 
+    font-size: 0.9em;
+}
